@@ -10,6 +10,7 @@
 
 body {
   margin: 0;
+  background-color: black;
 }
 
 .container {
@@ -109,7 +110,7 @@ label {
 app-top-bar {
   width: 100%;
   height: 68px;
-  background-color: #1976d2;
+  background-color: #114c8871;
   padding: 16px;
   display: flex;
   flex-direction: row;
@@ -134,7 +135,7 @@ app-top-bar h1 {
   padding: 16px 32px;
   margin-bottom: 8px;
   border-radius: 2px;
-  background-color: #EEEEEE;
+  background-color: #681c1c;
 }
 
 
